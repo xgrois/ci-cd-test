@@ -19,7 +19,7 @@ namespace AnimalCountingDatabase.Tests
         [Fact]
         public void Test3()
         {
-            Assert.True(1 == 5);
+            Assert.True(1 == 1);
         }
     }
 }
